@@ -4,3 +4,5 @@ MNIST_data/
 checkpoints/
 logs/
 results/
+.idea/
+
